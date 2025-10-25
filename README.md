@@ -37,7 +37,7 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/VishalSudhanshu/CoinGecko-Crypto.git
+   git clone https://github.com/SauravPriyanshu/Coin-Gecko-App.git
    ```
 2. Navigate to the project directory
    ```sh
@@ -85,12 +85,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Vishal Sudhanshu - [Email](mailto:vishalsudhanshu01@gmail.com)
-
-Project Link: [https://github.com/VishalSudhanshu/CoinGecko-Crypto](https://github.com/VishalSudhanshu/CoinGecko-Crypto)
-
 ## Acknowledgements
 
 - [CoinGecko](https://www.coingecko.com/) for providing the API
@@ -98,3 +92,4 @@ Project Link: [https://github.com/VishalSudhanshu/CoinGecko-Crypto](https://gith
 - [Vite](https://vitejs.dev/) for the build tool
 
 Happy coding! 🚀
+
